@@ -1,10 +1,10 @@
 # Data Scientist
 
 ## Technical Skills: 
-**Programming Languages** : Python, R, Java, C, C++
-**Frameworks** : Pandas, Numpy, TensorFlow, PyTorch, Scikit-Learn, Darts, NLTK, OpenCV, Streamlit, LangChain, Git
-**Data Analysis and Visualization Tools** : Advanced Excel, Tableau, Power BI, MySQL, PostgreSQL, MongoDB
-**Data Engineering Tools** : Apache Spark, AWS, Snowflake, Apache Airflow, Apache NiFi, Docker, Apache Hive, Kafka
+**Programming Languages** : Python, R, Java, C, C++ <br />
+**Frameworks** : Pandas, Numpy, TensorFlow, PyTorch, Scikit-Learn, Darts, NLTK, OpenCV, Streamlit, LangChain, Git <br />
+**Data Analysis and Visualization Tools** : Advanced Excel, Tableau, Power BI, MySQL, PostgreSQL, MongoDB <br />
+**Data Engineering Tools** : Apache Spark, AWS, Snowflake, Apache Airflow, Apache NiFi, Docker, Apache Hive, Kafka <br />
     
 
 ## Education
