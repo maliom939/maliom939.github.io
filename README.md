@@ -21,7 +21,7 @@ Teaching Assistant @ Northeastern University
 - Aided professor in facilitating discussions, grading assignments, and received commendation from students for effective communication and accessibility.
 
 ## Projects
-**[Skimlit] (https://github.com/maliom939/Skimlit)**
+**[Skimlit](https://github.com/maliom939/Skimlit)**
 - 
 Designed and developed a sophisticated Natural Language Processing model with the objective of classifying abstract sentences into distinct categories, namely Objective, Method, Results, and Conclusion.
 
