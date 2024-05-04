@@ -1,10 +1,17 @@
 # Data Scientist
 
-### Education
-M.S in Data Science | Northeastern University (May 2025)
-B.S in Computer Science | National Institute of Technology, Rourkela, India (May 2023)
+### Technical Skills: 
+#### Programming Languages: Python, R, Java, C, C++
+#### Frameworks: Pandas, Numpy, TensorFlow, PyTorch, Scikit-Learn, Darts, NLTK, OpenCV, Streamlit, LangChain, Git
+#### Data Analysis and Visualization Tools: Advanced Excel, Tableau, Power BI, MySQL, PostgreSQL, MongoDB
+#### Data Engineering Tools: Apache Spark, AWS, Snowflake, Apache Airflow, Apache NiFi, Docker, Apache Hive, Kafka
+    
 
-### Work Experience
+## Education
+- M.S in Data Science | Northeastern University (May 2025)
+- B.S in Computer Science | National Institute of Technology, Rourkela, India (May 2023)
+
+## Work Experience
 Software Engineer Intern @ John Deere
 - Created a comprehensive suite of test scenarios for website automation testing by directly interacting with its underlying web framework to emulate user interactions.
 - Developed ETL pipelines using Apache Airflow and created Power BI dashboards to analyze salesperson performance.
